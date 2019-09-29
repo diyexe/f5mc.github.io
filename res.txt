@@ -1,19 +1,7 @@
-<title>f5mc.github.io</title>
-<style type="text/css">
-body,td,th {
-	font-family: "雅黑";
-	font-size: 18px;
-	color: #000;
-	font-weight: bold;
-}
-body {
-	background-color: #999;
-}
-</style>
-<h1><br>
-  RES命令简明教程<br>
-</h1>
-<pre>					  
+<pre>	
+  RES命令简明教程
+
+				  
 					  
 以下简单介绍一下此领地插件常用的一些指令以及权限。
 

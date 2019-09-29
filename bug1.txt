@@ -1,23 +1,10 @@
-<title>f5mc.github.io</title>
-<style type="text/css">
-body,td,th {
-	font-family: "雅黑";
-	font-size: 24px;
-	color: #000;
-}
-body {
-	background-color: #999;
-}
-</style>
-
-<pre>&nbsp;
 
 
-</pre>
-<h1><strong><br>
-  我的世界矿车树叶透视BUG操作流程：</strong><br>
-</h1>
 <pre>
+
+
+  我的世界矿车树叶透视BUG操作流程：
+
 -----------------------------------------------------------
 
 需要用到的工具有:矿车* 铁轨* 树叶* 数量自己把握

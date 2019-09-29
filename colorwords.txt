@@ -1,25 +1,10 @@
-<title>f5mc.github.io</title>
-<style type="text/css">
-body,td,th {
-	font-family: "雅黑";
-	font-size: 18px;
-	color: #000;
-	font-weight: bold;
-}
-body {
-	background-color: #999;
-}
-</style>
+
 
 <pre>
 
-<h3>
-</pre>
-<h1><br>
+
   关于领地进入设置彩色字体及将字体加粗等<br>
-  <br>
-</h1>
-<pre>
+
 
 【花雨庭 云杉帝国【云杉镇原创】 】
 
@@ -58,7 +43,6 @@ body {
 
 退出信息彩色字体同样可用
 
-<h3>
 </pre>
 
 
